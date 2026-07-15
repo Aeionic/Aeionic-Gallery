@@ -75,10 +75,10 @@ body {
    font-size: 24px;
    font-weight: normal;
    text-decoration: none;
-   color: #e8e8e8;
+   color: #E6E3E8;
    cursor: pointer;
    transition: color 0.3s ease;
-   border-bottom: 2px solid #e8e8e8;
+   border-bottom: 2px solid #E6E3E8;
    padding-bottom: 5px;
    font-family: Georgia, serif;
 }
@@ -119,15 +119,15 @@ body {
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 280px;
-   height: 160px;
-   border: 2px solid #e8e8e8;
+   width: 560px;
+   height: 320px;
+   border: 2px solid #E6E3E8;
    display: flex;
    justify-content: center;
    align-items: center;
    font-size: 18px;
    text-align: center;
-   color: #b8c5d6;
+   color: #E6E3E8;
    font-family: Georgia, serif;
    line-height: 1.4;
 }
