@@ -11,9 +11,7 @@ body, header, nav, main, footer, img, h1, ul {
    border: 0;
 }
 
-/* ============================
-   GLOBAL PAGE STYLING
-   ============================ */
+/*Global Page Styling */
 body {
     margin: 0;
     padding: 0;
@@ -35,9 +33,7 @@ body {
     align-items: center;
 }
 
-/* ============================
-   LOGO (CENTER TOP)
-   ============================ */
+/* Logo */
 .logo {
    position: absolute;
    top: 60px;
@@ -56,9 +52,7 @@ body {
    color: #b8c5d6;
 }
 
-/* ============================
-   SIDE LINKS (BIO, GALLERY, CONTACT, PAYMENT)
-   ============================ */
+/* Side Links*/
 .side-link {
    position: absolute;
    font-size: 32px;
@@ -90,26 +84,24 @@ body {
 
 /* Bottom-left: Contact */
 .contact-link {
-   bottom: 240px;
+   bottom: 280px;
    left: 15%;
 }
 
 /* Bottom-right: Payment */
 .payment-link {
-   bottom: 240px;
+   bottom: 280px;
    right: 15%;
 }
 
-/* ============================
-   SUMMARY BOX (CENTER)
-   ============================ */
+/*Summary Box*/
 .summary-box {
    position: absolute;
-   top: 25%;
+   top: 70%;
    left: 50%;
    transform: translate(-50%, -50%);
    width: 560px;
-   height: 320px;
+   height: 420px;
    border: 2px solid #E6E3E8;
    display: flex;
    justify-content: center;
