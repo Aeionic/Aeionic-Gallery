@@ -18,7 +18,7 @@ body {
    background-color: #323057;
    background-size: 200% 200%;
    background-repeat: repeat;
-   font-family: Georgia, serif;
+   font-family: Garamond, serif;
    color: #E6E3E8;
    overflow: hidden;
 }
@@ -63,7 +63,7 @@ body {
    transition: color 0.3s ease;
    border-bottom: 2px solid #E6E3E8;
    padding-bottom: 5px;
-   font-family: Georgia, serif;
+   font-family: Garamond, serif;
 }
 
 .side-link:hover {
@@ -109,6 +109,6 @@ body {
    font-size: 18px;
    text-align: center;
    color: #E6E3E8;
-   font-family: Georgia, serif;
+   font-family: Garamond, serif;
    line-height: 1.4;
 }
