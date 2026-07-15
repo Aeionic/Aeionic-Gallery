@@ -18,17 +18,6 @@ body {
     margin: 0;
     padding: 0;
    background-color: #323057;
-   background-image: 
-       radial-gradient(2px 2px at 20% 30%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(2px 2px at 60% 70%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 50% 50%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 80% 10%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(2px 2px at 90% 60%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 30% 80%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 10% 40%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(2px 2px at 40% 20%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 70% 90%, white, rgba(255, 255, 255, 0)),
-       radial-gradient(1px 1px at 15% 65%, white, rgba(255, 255, 255, 0));
    background-size: 200% 200%;
    background-repeat: repeat;
    font-family: Georgia, serif;
@@ -90,25 +79,25 @@ body {
 /* Top-left: Biography */
 .bio-link {
    top: 240px;
-   left: 10%;
+   left: 15%;
 }
 
 /* Top-right: Gallery */
 .gallery-link {
    top: 240px;
-   right: 10%;
+   right: 15%;
 }
 
 /* Bottom-left: Contact */
 .contact-link {
    bottom: 240px;
-   left: 10%;
+   left: 15%;
 }
 
 /* Bottom-right: Payment */
 .payment-link {
    bottom: 240px;
-   right: 10%;
+   right: 15%;
 }
 
 /* ============================
