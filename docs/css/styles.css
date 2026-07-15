@@ -72,25 +72,25 @@ body {
 
 /* Top-left: Biography */
 .bio-link {
-   top: 240px;
+   top: 280px;
    left: 15%;
 }
 
 /* Top-right: Gallery */
 .gallery-link {
-   top: 240px;
+   top: 280px;
    right: 15%;
 }
 
 /* Bottom-left: Contact */
 .contact-link {
-   bottom: 280px;
+   bottom: 200px;
    left: 15%;
 }
 
 /* Bottom-right: Payment */
 .payment-link {
-   bottom: 280px;
+   bottom: 200px;
    right: 15%;
 }
 
